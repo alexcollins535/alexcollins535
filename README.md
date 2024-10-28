@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexcollins535
-- 👀 I’m interested in a variety of areas of data: healthcare, sports, music, etc. 
+- 👀 I’m interested in a variety of areas of data: healthcare, sports analytics, music, etc. 
 - 📫 Email me at alexcollins535@gmail.com
 - 😄 Pronouns: he/him
 
